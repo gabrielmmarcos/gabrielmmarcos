@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-- 👨🏻‍💻 Estagiário em Tecnologia na JX Solutions. / Technology Intern at JX Solutions.
+- 👨🏻‍💻 Desenvolvedor Junior na JX Solutions. / Junior Developer at JX Solutions.
 - 📚 Cursando Análise e Desenvolvimento de Sistemas. / Studying Analysis and Development of Systems.
 - 🌱 Atualmente estudando AWS e Python. / Currently studying AWS and Python.
 - 🚀 Interessado em Backend, Inteligência Artificial e Automação. / Interested in Backend, Artificial Intelligence and Automation.
@@ -86,29 +86,5 @@
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:gabrielmarcos.gabrielmmarcos1@gmail.com)
 
 
-### 📊 Estatísticas / Stats
 
-
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmmarcos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### 🔥 GitHub Streak 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gabrielmmarcos&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 
