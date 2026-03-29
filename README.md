@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 - 👨🏻‍💻 Desenvolvedor Junior na JX Solutions. / Junior Developer at JX Solutions.
-- 📚 Cursando Análise e Desenvolvimento de Sistemas. / Studying Analysis and Development of Systems.
+- 📚 Formado Análise e Desenvolvimento de Sistemas. / Graduated Analysis and Development of Systems.
 - 🌱 Atualmente estudando AWS e Python. / Currently studying AWS and Python.
 - 🚀 Interessado em Backend, Inteligência Artificial e Automação. / Interested in Backend, Artificial Intelligence and Automation.
 
